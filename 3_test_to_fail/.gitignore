@@ -1,0 +1,7 @@
+/2_writing_tests/allure-results/*
+/3_test_to_fail/allure-results/*
+.venv
+.vscode
+.pytest_cache
+2_writing_tests/allure-results/*
+3_test_to_fail/allure-results/*

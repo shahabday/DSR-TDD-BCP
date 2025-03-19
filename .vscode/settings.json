@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "3_test_to_fail"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
