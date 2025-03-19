@@ -14,7 +14,7 @@
 import pytest
 
 # DO NOT LOOK INTO THE RECORD_TELEGRAMS FUNCTION AS IT WILL SPOIL THE MYSTERY!
-from SOLUTIONS.water_meter import record_telegrams
+from water_meter import record_telegrams
 
 telegrams = record_telegrams(duration_minutes=60)
 for telegram in telegrams:
